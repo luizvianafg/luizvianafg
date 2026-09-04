@@ -60,6 +60,6 @@ Atualmente, contribuo para a evolução de produtos digitais críticos no setor 
 
 Open to conversations about **Product, Product Operations, Analytics, and Digital Transformation**.
 
-São Paulo, Brazil · 
+São Paulo, Brazil · Faustino Lab · Avantto
 
 </div>
