@@ -13,7 +13,7 @@ I connect **business, technology, operations, and data** to turn complex workflo
 
 ## About me
 
-I am a Senior Product Analyst with 4+ years of experience working at the intersection of product, business, technology, and operations. My work combines product discovery, backlog prioritization, functional validation, SQL-based analysis, stakeholder alignment, and user enablement.
+I am a Senior Product Analyst with 7+ years of experience working at the intersection of product, business, technology, and operations. My work combines product discovery, backlog prioritization, functional validation, SQL-based analysis, stakeholder alignment, and user enablement.
 
 Today, I help evolve critical digital products in executive aviation, translating operational and business needs into clear requirements, reliable workflows, and measurable outcomes.
 
